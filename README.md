@@ -1,5 +1,6 @@
 # 한국어
 [![Rhymix](https://cloud.githubusercontent.com/assets/8565457/12881857/7c3e69d6-ce90-11e5-94dc-8a592cf9ab7d.png)](https://www.rhymix.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbnu%2Frhymix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbnu%2Frhymix?ref=badge_shield)
 
 Rhymix(라이믹스)는 누구든지 쉽고 자유롭게 독립적인 홈페이지를 만들어
 자신을 표현하고 커뮤니티를 키워나갈 수 있도록 돕기 위한 CMS(content management system)입니다.
@@ -140,3 +141,6 @@ The GPL is commonly adopted by global CMSes such as WordPress, Drupal, and Jooml
 The use of Rhymix on homepage does not impose a duty on you to release the source code, even if you modify the source code or develop the extension yourself.
 However, distributing and/or selling the source code or extension according to the GPL license, you have to provide the source code.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbnu%2Frhymix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbnu%2Frhymix?ref=badge_large)
